@@ -2,11 +2,13 @@
 @tailwind components;
 @tailwind utilities;
 
-body {
-  @apply bg-[#061525] text-white;
-  font-family: system-ui, sans-serif;
-}
-
-a {
-  @apply text-pink-400 hover:underline;
+@layer base {
+  body {
+    @apply bg-[#061525] text-white;
+    font-family: system-ui, sans-serif;
+  }
+  
+  a {
+    @apply text-pink-400 hover:underline;
+  }
 }
