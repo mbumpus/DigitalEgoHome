@@ -9,7 +9,7 @@ export default function Features() {
           {/* Section header */}
           <div className="text-center pb-12 md:pb-20">
             <h2 className="h2 font-uncut-sans" data-aos="zoom-out">
-              AI that understands <em className="font-italic text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-pink-400">you</em>
+              AI that understands <em className="font-italic text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-[#7a4155]">you</em>
             </h2>
           </div>
           <div className="pb-16" data-aos="zoom-out">
