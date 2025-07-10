@@ -29,7 +29,7 @@ export default function Hero() {
               </div>
             </div>
             <h1 className="h1 font-uncut-sans mb-6" data-aos="zoom-out" data-aos-delay="100">
-              Built to Reflect Your <em className="font-italic text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-pink-400">Brilliance</em>
+              Built to Reflect Your <em className="font-italic text-transparent bg-clip-text bg-gradient-to-r from-blue-400 to-[#7a4155]">Brilliance</em>
             </h1>
             <p className="text-xl text-gray-400 mb-10" data-aos="zoom-out" data-aos-delay="200">
               DigitalEgo is a modular AI system for reflective decision support — enabling agent coordination, task execution, and human-aligned reasoning at scale.
