@@ -1,9 +1,9 @@
 Source-URL: https://digitalego.ai/articles/access-isnt-adoption
 Machine-URL: https://digitalego.ai/.well-known/mwp/access-isnt-adoption.txt
-Published: 2025-12-31T16:21:10.295Z
+Published: 2025-12-31T16:30:51.155Z
 Title: Access Isn’t Adoption
 Categories: tech
-Content-Hash: sha256-89dd85364ed72e9d90d87141d082e864121b896af77a503dab2c5f7463c8f672
+Content-Hash: sha256-1a7e7f87eea79ec1a48aa73b3d7f840729a8457f11a2c7eed305049a8e13ad81
 Extraction: readability-extracted
 
 ---
